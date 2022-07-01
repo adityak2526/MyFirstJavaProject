@@ -7,6 +7,8 @@ public class Test123 {
 		System.out.println("Hello World!");
 		String s = "My password 'welcome1' correct";
 		
+		System.out.println("Hello");
+		
 		String[] a=s.split("'");
 		
 		for (String string : a) {
